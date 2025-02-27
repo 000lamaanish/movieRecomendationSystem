@@ -18,6 +18,3 @@ def recommend(movie):
         recommend_movie.append(movies.iloc[i[0]].title)
     
 
-if st.button('show recommend'):
-    
-    pass
